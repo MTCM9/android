@@ -184,6 +184,7 @@
   <project path="hardware/qcom/camerhal" name="MTCM9/android_hardware_qcom_camerahal" />
   <project path="hardware/qcom/display" name="CyanogenMod/android_hardware_qcom_display" />
   <project path="hardware/qcom/gps" name="MTCM9/android_hardware_qcom_gps" />
+  <project path="hardware/qcom/libcamera2" name="MTCM9/libcamera2" />
   <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
   <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" />
