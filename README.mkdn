@@ -1,13 +1,13 @@
-CyanogenMod
+MTDEV CM9
 ===========
 
 Getting Started
 ---------------
 
 To get started with Android/CyanogenMod, you'll need to get
-familiar with [Git and Repo](http://source.android.com/download/using-repo).
+to be running Linux here is how to setup your [Enviornment](http://code.google.com/p/htc-evov4g/wiki/EnvironmentSetup).
 
-To initialize your local repository using the CyanogenMod trees, use a command like this:
+To initialize your local repository using the TeamJB trees, use a command like this:
 
     repo init -u git://github.com/MTCM9/android.git -b ics
 
@@ -15,8 +15,6 @@ Then to sync up:
 
     repo sync
 
-Please see the [CyanogenMod Wiki](http://wiki.cyanogenmod.com/) for building instructions.
+Now time to build:
 
-For more information on this Github Organization and how it is structured, 
-please [read the wiki article](http://wiki.cyanogenmod.com/index.php/Github_Organization)
-
+    . build/envsetup.sh && brunch triumph
