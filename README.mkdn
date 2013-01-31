@@ -9,7 +9,7 @@ to be running Linux here is how to setup your [Enviornment](http://code.google.c
 
 To initialize your local repository using the MTCM9 trees, use a command like this:
 
-    repo init -u git://github.com/MTCM9/android.git -b ics
+    repo init -u https://github.com/MTCM9/android.git -b ics
 
 Then to sync up:
 
