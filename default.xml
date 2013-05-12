@@ -19,7 +19,7 @@
   <project path="build" name="MTCM9/build">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="abi" name="MTCM9/abi" />
+  <project path="abi" name="platform/abi/cpp" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="bionic" name="MTCM9/bionic" />
   <project path="bootable" name="MTCM9/bootable" />
   <project path="dalvik" name="MTCM9/dalvik" />
