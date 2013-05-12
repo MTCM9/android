@@ -32,7 +32,7 @@
   <project path="ndk" name="CyanogenMod/android_ndk" />
   <project path="packages" name="MTCM9/packages" />
   <project path="prebuilt" name="platform/prebuilt" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
-  <project path="vendor" name="MTCM9/Vendor" />
+  <project path="vendor" name="MTCM9/vendor" />
   <project path="sdk" name="CyanogenMod/android_sdk" />
   <project path="system" name="MTCM9/system" />
   <project path="android" name="MTCM9/android" />
